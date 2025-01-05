@@ -172,7 +172,11 @@ cython_debug/
 
 # Dataset folders
 datasets/
+runs/
 
 # Virtualenv
 Pipfile
 Pipfile.lock
+
+# OS
+.DS_Store
